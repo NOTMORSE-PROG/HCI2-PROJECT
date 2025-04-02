@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539681865097",
+    "project_id": "hci2-project-e3aea",
+    "storage_bucket": "hci2-project-e3aea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539681865097:android:7026ce351a55f72fc0b558",
+        "android_client_info": {
+          "package_name": "com.example.hci_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEVafhe8apEi9Bq0dNGA6uvKVzfNRxXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
